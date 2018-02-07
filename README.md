@@ -13,3 +13,15 @@
 
 
 TonyMonkey.github.io这些是固定的  即为：Github用户名.github.io/项目名称
+
+根据项目找大牛学习
+
+选择自己领域的项目，然后点进去看版本贡献者，然后follow他。
+
+Github 大牛： Scott Chacon
+
+
+最后——————
+GitHub客户端只能满足一些常见的需求，要更高级必须要学着用Git命令行。 《Pro Git》
+github虽不开源，无法部署到自己服务器。
+但，gitLab开源
